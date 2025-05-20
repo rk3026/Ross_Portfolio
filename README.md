@@ -1,2 +1,2 @@
 # Ross_Portfolio
-A react website for my personal portfolio.
+A react+vite website for my personal portfolio.
